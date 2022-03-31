@@ -15,7 +15,7 @@ package trees.assignment1;
  *     }
  * }
  */
-class LongestUnivaluePath {
+class LongestUnivaluePath1 {
     class Result{
         int maxSoFar,lenWithRoot,height;
         Result( int maxSoFar,int lenWithRoot,int height){
